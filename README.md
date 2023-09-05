@@ -1,4 +1,4 @@
-# CheckforWEBSITEdeadlinkWithINTERFACE
+# With_INTERFACE_Website_Deadlink_Checker_tool
 This tool will assist in checking for website deadlink witho option to save and view result,its also has a progress and time remain status panel.Enjoy
 # CheckForWebSiteDeadLink
 #CHECK FOR DEAD LINK WITH PROGRESS and TIME DISPLAY
